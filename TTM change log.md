@@ -15,11 +15,13 @@ TEMPLATE / pls ignore
 
 
 
-## [VERSION] - DATE
+## [0.9.1] - DATE
 ### [Unreleased]
+- Website: trustabletech.org now in pre-publich / pre-launch mode, content updates pending
 ### Added 
+- Website: SSL certificate installed
 ### Changed
-- Removed transparency report as a requirement
+- Balancing: Removed transparency report as a requirement 
 ### Deprecated
 ### Removed
 ### Fixed
