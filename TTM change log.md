@@ -15,6 +15,19 @@ TEMPLATE / pls ignore
 
 
 
+## [VERSION] - DATE
+### [Unreleased]
+### Added 
+### Changed
+- Removed transparency report as a requirement
+### Deprecated
+### Removed
+### Fixed
+
+
+
+
+
 ## [0.9.0] - 2019-11-5
 ### [Unreleased]
 - Website [trustabletech.org](https://trustabletech.org) upcoming (currently under review)
