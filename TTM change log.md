@@ -15,11 +15,12 @@ TEMPLATE / pls ignore
 
 
 
-## [0.9.1] - DATE
+## [0.9.1] - 2018-11-28
 ### [Unreleased]
-- Website: trustabletech.org now in pre-publich / pre-launch mode, content updates pending
+- Website: partner pages, assessment form embed, assessment form responses embed
 ### Added 
 - Website: SSL certificate installed
+- Website: trustabletech.org now in pre-launch mode, content updates ongoing (but still incomplete)
 ### Changed
 - Balancing: Removed transparency report as a requirement 
 ### Deprecated
@@ -30,7 +31,7 @@ TEMPLATE / pls ignore
 
 
 
-## [0.9.0] - 2019-11-5
+## [0.9.0] - 2018-11-5
 ### [Unreleased]
 - Website [trustabletech.org](https://trustabletech.org) upcoming (currently under review)
 
