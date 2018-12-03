@@ -14,6 +14,21 @@ TEMPLATE / pls ignore
 ### Fixed
 
 
+## [0.9.2] - 2018-12-03
+### [Unreleased]
+
+### Added 
+- Website: partner logos, assessment form embed, assessment form responses linked
+- Assessment: Added the first pre-approved product to published assessment document and assigned the first Trustmark ID
+- Admin: Defined Trustmark IDs as "2 letter country code + 5 digit number", starting with 00001. Example: FR00001 (currently manually assigned)
+- Assessment: added CC by 4.0 license to assessment results doc
+### Changed
+- Balancing: Given good enough contextual requirements, 2 otherwise required YES answers can be excused
+- Assessment form: minor formatting changes (order of questions in initial section for easier export to published form)
+### Deprecated
+### Removed
+### Fixed
+
 
 ## [0.9.1] - 2018-11-28
 ### [Unreleased]
