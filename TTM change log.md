@@ -14,6 +14,20 @@ TEMPLATE / pls ignore
 ### Fixed
 
 
+## [0.9.3] - 2018-12-05
+### [Unreleased]
+
+### Added 
+- Website: Added more partner logos
+- Comms: wrote and pre-scheduled outgoing launch communications (website, blog, Medium, social channels)
+- Comms: Updated presentations
+### Changed
+- Website: Some partner comms wording (corrections of institutions)
+- Assessment: Added note in assessment forms that up to two NO answers are acceptable within reason (depending on context)
+### Deprecated
+### Removed
+### Fixed
+
 ## [0.9.2] - 2018-12-03
 ### [Unreleased]
 
