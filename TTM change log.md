@@ -13,6 +13,18 @@ TEMPLATE / pls ignore
 ### Removed
 ### Fixed
 
+## [1.0.0] - 2018-12-08
+### [Unreleased]
+
+### Added 
+### Changed
+- Comms: Assessment applications now open to the public
+- Comms: Launch communications (blog post, Medium post)
+- Website: Updated /media
+### Deprecated
+### Removed
+### Fixed
+
 
 ## [0.9.3] - 2018-12-05
 ### [Unreleased]
