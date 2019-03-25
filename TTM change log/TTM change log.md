@@ -13,6 +13,20 @@ TEMPLATE / pls ignore
 ### Removed
 ### Fixed
 
+## [1.0.1] - 2019-03-25
+### [Unreleased]
+
+### Added
+- Admin: Published the final trustmark license
+- Comms: Added visual assets (trustmark versions) to Github repo
+- Comms: Started a style guide for trustmark and logo use
+
+### Changed
+### Deprecated
+### Removed
+### Fixed
+
+
 ## [1.0.0] - 2018-12-08
 ### [Unreleased]
 
