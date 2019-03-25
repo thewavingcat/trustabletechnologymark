@@ -19,7 +19,6 @@ TEMPLATE / pls ignore
 ### Added
 - Admin: Published the final trustmark license
 - Comms: Added visual assets (trustmark versions) to Github repo
-- Comms: Started a style guide for trustmark and logo use
 
 ### Changed
 ### Deprecated
